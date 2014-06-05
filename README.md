@@ -1,4 +1,4 @@
-fn-unary
-========
+fn-nullary
+==========
 
-pass only one argument
+wrap a function to cut of arguments
